@@ -18,3 +18,5 @@ print(student, ':', type(student))
 print(hobbies, ':', type(hobbies))
 print(grades, ':', type(grades))
 print(pets, ':', type(pets))
+
+#коміт
